@@ -1,3 +1,9 @@
+# custom added by AlexR
+
+# CSV file for the Credit Card Fraud detection example
+# dataset available on Kaggle
+./data/creditcard.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
